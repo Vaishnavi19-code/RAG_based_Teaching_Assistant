@@ -1,0 +1,13 @@
+According to our course material, matplotlib is primarily discussed in Video 8 of our "Python Matplotlib Tutorial" series.
+
+In this video, you'll learn about the basics of matplotlib, including what it does and how to use it for charting. You'll also get an idea of how matplotlib works and its importance in data science and big data analysis.
+
+To give you a better understanding, some key concepts that are covered in Video 8 include:
+
+- The concept of inline plotting with matplotlib
+- How to import the whole matplotlib library
+- How to plot different types of charts using matplotlib
+
+The video also touches upon other related topics such as line magic and pip install commands for installing matplotlib.
+
+If you want to learn more about matplotlib, I recommend checking out Video 8.
